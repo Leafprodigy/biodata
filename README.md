@@ -1,5 +1,5 @@
 
-# 👋 Halo, Saya [Nama Anda]
+# 👋 Halo, Saya [ALIF RIDHO WALLI]
 
 ## 🚀 Tentang Saya
 - 🌱 Sedang belajar: [misalnya Java, Python, Web Development]
