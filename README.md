@@ -25,12 +25,10 @@ Seorang mahasiswa yang antusias mengeksplorasi rekayasa perangkat lunak, algorit
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leafprodigy&show_icons=true&theme=gotham&hide_border=true" alt="Statistik Leafprodigy" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leafprodigy&layout=compact&theme=gotham&hide_border=true" alt="Bahasa Teratas" />
+ 
 </p>
 
 ---
 
 ### ⚡ Fun Fact
-Suka mengulik alur logika kode yang rumit sampai ketemu solusinya, sambil ditemani kopi.
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+Suka mengulik alur logika kode yang rumit sampai ketemu solusinya, sambil ditemani rasa kesepian.
